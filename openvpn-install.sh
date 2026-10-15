@@ -330,7 +330,6 @@ show_install_help() {
 		Other Options:
 			--multi-client        Allow same cert on multiple devices
 			--retry <seconds>     Wait up to N seconds for apt locks (default: 300; 0 disables)
-			                      Useful with cloud-init / unattended-upgrades
 
 		Initial Client Options:
 			--client <name>       Initial client name (default: client)
